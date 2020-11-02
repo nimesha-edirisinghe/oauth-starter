@@ -2,4 +2,6 @@
 
 # dependencies
 /node_modules
-# config/keys
+
+# key configurations
+config/keys
